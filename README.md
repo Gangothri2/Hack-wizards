@@ -17,8 +17,8 @@ Basic understanding of HTML, CSS, JavaScript
 
 📚 Resources
 
-MDN Web Docs – HTML, CSS, JS reference
+[MDN Web Docs – HTML, CSS, JS reference](https://developer.mozilla.org/en-US/)
 
-Node.js Documentation
+[ Node js Documentation](https://nodejs.org/docs/latest/api/)
 
-Express.js Guide
+[Express.js Guide](https://expressjs.com/)
